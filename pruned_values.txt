@@ -1,0 +1,12 @@
+Bandit
+Camp
+Chest
+Cottage
+Crossroads
+False
+Guard
+Market
+Merchant
+Null
+Player
+True
